@@ -52,7 +52,7 @@ module.exports = {
         },
     },
     mocha: {
-        timout: 6000000, // 600 seconds max for running tests
+        timeout: 600000, // 600 seconds max for running tests
     },
     etherscan: {
         apiKey: {
